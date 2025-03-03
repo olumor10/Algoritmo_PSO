@@ -34,6 +34,7 @@ Os resultados do algoritmo PSO são apresentados na seção "Resultados" do note
 * O algoritmo PSO é um algoritmo estocástico, portanto os resultados podem variar entre as execuções.
 * Os parâmetros do algoritmo PSO podem ser ajustados para melhorar o desempenho.
 * O notebook inclui visualizações para ajudar a entender o comportamento do algoritmo PSO.
+* O código contém outras funções de custo, que estão comentadas. É possível experimentá-las descomentando-as e comentando a função de custo atual. Além disso, ajuste o intervalo de busca.
 
 ## Referência
 Haupt, R. L. and Haupt, S. E. Practical Genetic Algorithms. Wiley-Interscience, 2ª Edição. 2004.
